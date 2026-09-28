@@ -1,0 +1,6 @@
+{
+  "name": "Campus Lost & Found",
+  "description": "Smart campus lost and found platform with instant listings, Smart Match, and secure claim verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
